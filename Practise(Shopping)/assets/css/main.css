@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 102, 128);
+}
+
+.h2{
+    text-align: center;
+    margin-top: 70px;
+    color: red;
+}
+ 
+.bi{
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: maroon;
+}
+
+.card-title:hover{
+    color: mediumspringgreen;
+    cursor: pointer;
+}
+
+.basket{
+    display: none;
+}
