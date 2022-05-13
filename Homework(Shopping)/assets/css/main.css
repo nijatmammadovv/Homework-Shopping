@@ -1,0 +1,32 @@
+.container{
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+
+.col-md-, .col-lg-4{
+    margin-bottom: 20px;
+}
+.sty{
+    font-size: 18px !important;
+    color: rgb(184, 16, 206) !important;
+}
+.num{
+    width: 80px;
+    height: 30px;
+    border: 3px solid rgb(19, 147, 197);
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px;
+}
+.uk-border-circle{
+    width: 100px !important;
+    height: 100px !important;
+}
+.fa-cart-arrow-down{
+    color: rgb(218, 163, 14);
+    font-size: 50px;
+    cursor: pointer;
+    padding-left: 20px;
+}
